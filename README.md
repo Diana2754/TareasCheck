@@ -76,7 +76,9 @@ npm run dev
 ## Marcar una tarea como completada
 <img width="410" height="432" alt="image" src="https://github.com/user-attachments/assets/e919407e-2437-4225-b224-42b799ce7851" />
 
+
 ## Editar una tarea
+
 <img width="544" height="430" alt="image" src="https://github.com/user-attachments/assets/a86b55fe-02de-4e67-958f-1471a113c31d" />
 
 ##Eliminar una tarea
