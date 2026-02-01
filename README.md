@@ -29,7 +29,7 @@ Permite:
 cd backend
 Instalar dependencias:
 
-bash
+
 Copiar código
 npm install
 Crear archivo .env:
@@ -39,24 +39,24 @@ Copiar código
 PORT=3000
 Ejecutar el servidor:
 
-bash
+
 Copiar código
 npm run dev-mode
 El backend quedará corriendo en:
 
-arduino
+
 Copiar código
 http://localhost:3000
 
 🎨 Frontend 
 Entrar a la carpeta del frontend:
 
-bash
+
 Copiar código
 cd frontend
 Instalar dependencias:
 
-bash
+
 Copiar código
 npm install
 Crear archivo .env:
@@ -66,7 +66,7 @@ Copiar código
 VITE_API_URL=http://localhost:3000/api
 Ejecutar la aplicación:
 
-bash
+
 Copiar código
 npm run dev
 
