@@ -34,7 +34,7 @@ Copiar código
 npm install
 Crear archivo .env:
 
-env
+
 Copiar código
 PORT=3000
 Ejecutar el servidor:
@@ -61,7 +61,7 @@ Copiar código
 npm install
 Crear archivo .env:
 
-env
+
 Copiar código
 VITE_API_URL=http://localhost:3000/api
 Ejecutar la aplicación:
