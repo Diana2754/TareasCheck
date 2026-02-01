@@ -22,7 +22,7 @@ Permite:
 
 ---
 
-##  Backend (API Express)
+##  Backend 
 
 1. Entrar a la carpeta del backend:
 
@@ -48,7 +48,7 @@ El backend quedará corriendo en:
 Copiar código
 http://localhost:3000
 
-🎨 Frontend 
+ Frontend 
 Entrar a la carpeta del frontend:
 
 
