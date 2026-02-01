@@ -1,4 +1,4 @@
-# 📝 TareaCheck – Lista de Tareas
+#  TareaCheck – Lista de Tareas
 
 Aplicación fullstack para gestión de tareas desarrollada con:
 
@@ -14,19 +14,61 @@ Permite:
 
 ---
 
-## 🚀 Ejecución local del proyecto
+##  Ejecución local del proyecto
 
-### 📦 Requisitos previos
+###  Requisitos previos
 - Node.js (v18 o superior)
 - npm
 
 ---
 
-## 🔧 Backend (API Express)
+##  Backend (API Express)
 
 1. Entrar a la carpeta del backend:
-```bash
+
 cd backend
+Instalar dependencias:
+
+bash
+Copiar código
+npm install
+Crear archivo .env:
+
+env
+Copiar código
+PORT=3000
+Ejecutar el servidor:
+
+bash
+Copiar código
+npm run dev-mode
+El backend quedará corriendo en:
+
+arduino
+Copiar código
+http://localhost:3000
+
+🎨 Frontend 
+Entrar a la carpeta del frontend:
+
+bash
+Copiar código
+cd frontend
+Instalar dependencias:
+
+bash
+Copiar código
+npm install
+Crear archivo .env:
+
+env
+Copiar código
+VITE_API_URL=http://localhost:3000/api
+Ejecutar la aplicación:
+
+bash
+Copiar código
+npm run dev
 
 ## Prueba de app con dos tareas creadas
 <img width="383" height="431" alt="image" src="https://github.com/user-attachments/assets/7b57d536-4e31-48c8-8b0e-6c7b3837afca" />
